@@ -1,4 +1,4 @@
-BattleArenaWiki
+BattlePlugins iki
 ===============
 
 In alkarins absence, he has not payed for his VPS which hosted the BattlePlugins wiki as well as 
